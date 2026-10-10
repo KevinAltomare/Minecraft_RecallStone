@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-# Example Mod
-
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
-=======
 # Minecraft_RecallStone
 ## Recall Stone – Fabric Mod (Minecraft 26.3)
 Lightweight Fabric mod that adds a single‑use teleportation item designed for quick escapes and convenient travel. When activated, the stone instantly returns the player to their current respawn point — beds, respawn anchors, or the default world spawn.
@@ -50,3 +39,11 @@ Works in existing worlds
 
 No mixins affecting worldgen or gameplay systems
 >>>>>>> 2e6e039f692bb7ef56152d834ca19259374b4dfd
+## Setup
+
+For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+
+## License
+
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+=======
